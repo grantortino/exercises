@@ -1,0 +1,15 @@
+body {
+    margin: 0 auto;
+    font-family: 'Arimo', sans-serif;
+}
+
+.wiget-form {
+    border: 3px solid grey;
+    padding: 25px;
+    width: 300px;
+}
+
+.button {
+    background-color: lightblue;
+    color: white;
+}
